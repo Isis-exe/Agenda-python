@@ -1,0 +1,3 @@
+C:\Users\Tristaninha\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Tristaninha/Desktop/Projeto GI/agenda.py";2;C:\Users\Tristaninha\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Tristaninha/Desktop/Projeto GI/agenda.py";C:\Users\Tristaninha\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/Tristaninha/Desktop/Projeto GI/agenda.py" 
+05;Isis;1299999999;contato 
+01;Demyan;12900000000;Demymail 
